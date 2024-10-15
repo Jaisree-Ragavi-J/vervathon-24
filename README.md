@@ -3,6 +3,9 @@ Team members :
 Jaisree Ragavi J
 Monika A
 Poornima O
+3D MODEL GENERATION FROM TEXT
+
+
 Generative AI for Text-to-3D Model Hackathon Solution
 This document outlines the architecture and step-by-step process for building a solution that takes a textual description as input and generates a 3D model using Generative AI techniques. The system is designed for a hackathon, leveraging advanced models such as GANs or text-to-3D pretrained models to convert natural language into 3D shapes.
 1. System Architecture Overview
