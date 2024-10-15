@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  display: block;
+}
+
+.contain {
+  max-width: 730px;
+  min-width: 400px;
+  margin: auto;
+  padding-top: 1.5rem;
+}
+
+#prompt-container {
+  gap: 0;
+}
+
+#duplicate-button {
+  margin: auto;
+  color: #fff;
+  background: #1565c0;
+  border-radius: 100vh;
+}
